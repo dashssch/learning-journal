@@ -46,3 +46,8 @@ Markdown is a lightweight markup language used to format text.
 ~~Strikethrough~~
 
 `Inline code`
+## My first Markdown exercise
+**im fat**
+*beauty*
+~~smooking~~
+`git commit` what?
