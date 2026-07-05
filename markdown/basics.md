@@ -35,3 +35,14 @@ Markdown is a lightweight markup language used to format text.
 - I created my first GitHub profile README.
 - I learned how to create links.
 - I created my learning journal.
+---
+
+## Text formatting
+
+**Bold text**
+
+*Italic text*
+
+~~Strikethrough~~
+
+`Inline code`
